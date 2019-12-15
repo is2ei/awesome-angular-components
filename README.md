@@ -6,3 +6,5 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 ## UI Components
 
 ### Table / Data Grid
+
+- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
