@@ -11,4 +11,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ### Notification
 
+#### Toaster
 - [Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
+- [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+
