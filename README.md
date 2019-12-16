@@ -8,3 +8,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 ### Table / Data Grid
 
 - [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+
+### Notification
+
+- [Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
