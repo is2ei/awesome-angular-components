@@ -25,4 +25,4 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ### Tooltip
 
-- **Archived** - [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+- **Archived** [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
