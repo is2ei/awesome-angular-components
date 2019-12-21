@@ -14,6 +14,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 #### Push notification
 
 - [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications
+- [flauc/ng-push](https://github.com/flauc/ng-push) - An Angular wrapper around the Notifications API 
 
 #### Toaster
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
