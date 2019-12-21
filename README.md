@@ -5,10 +5,6 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ## UI Components
 
-### Table / Data Grid
-
-- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-
 ### Notification
 
 #### Push notification
@@ -22,3 +18,11 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 - [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
+
+### Table / Data Grid
+
+- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+
+### Tooltip
+
+- **Archived** - [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
