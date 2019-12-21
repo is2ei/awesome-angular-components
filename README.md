@@ -3,6 +3,8 @@ Curated List of Angular Components &amp; Libraries.
 
 I created this repository since [ brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components) is no longer maintained...
 
+:coffin: - Archived repository
+
 ## UI Components
 
 ### Notification
@@ -25,4 +27,4 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ### Tooltip
 
-- **Archived** [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+- :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
