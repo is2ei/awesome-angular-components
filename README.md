@@ -41,3 +41,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 - [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
 - :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+
+## Code Design
+
+- [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees.
