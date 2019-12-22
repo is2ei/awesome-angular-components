@@ -29,6 +29,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 - [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond. Support for custom template, icons, styles, separator and i18n.
 
+### Select
+
+- [ngx-flexible-select](https://github.com/AndreySyagrovskiy/ngx-flexible-select) - The most flexible and customized select
+
 ### Table / Data Grid
 
 - [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
