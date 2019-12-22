@@ -7,6 +7,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ## UI Components
 
+### Markdown Viewer
+
+- [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
+
 ### Notification
 
 #### Push notification
