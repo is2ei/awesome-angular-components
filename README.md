@@ -50,7 +50,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ### Boilterplate
 
-- [mdbootstrap/Angular-Bootstrap-Boilerplate] - Angular CRUD application starter with NgRx state management and Firebase backend 
+- [mdbootstrap/Angular-Bootstrap-Boilerplate](https://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate) - Angular CRUD application starter with NgRx state management and Firebase backend 
 
 ### Data Store
 
