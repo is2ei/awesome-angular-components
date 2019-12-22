@@ -25,6 +25,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 
+### Router
+
+- [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond. Support for custom template, icons, styles, separator and i18n.
+
 ### Table / Data Grid
 
 - [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
