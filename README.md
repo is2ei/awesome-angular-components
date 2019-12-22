@@ -11,6 +11,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
 
+### Menu
+
+ - [ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
+
 ### Notification
 
 #### Push notification
