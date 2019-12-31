@@ -7,6 +7,12 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 ## UI Components
 
+### Table
+
+*Tables / data grids*
+
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+
 ### Markdown Viewer
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
@@ -36,10 +42,6 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 ### Select
 
 - [AndreySyagrovskiy/ngx-flexible-select](https://github.com/AndreySyagrovskiy/ngx-flexible-select) - The most flexible and customized select
-
-### Table / Data Grid
-
-- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
 
 ### Tooltip
 
