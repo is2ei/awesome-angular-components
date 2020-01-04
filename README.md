@@ -12,6 +12,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 *Tables / data grids*
 
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud)
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
 
 ### Markdown Viewer
