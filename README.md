@@ -15,6 +15,16 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud)
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
 
+## Notification
+
+*Toaster / snackbar — Notify the user with a modeless temporary little popup*
+
+- [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
+- [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
+- [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
+- [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+- [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
+
 ### Markdown Viewer
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
@@ -23,19 +33,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
  - [ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
 
-### Notification
-
-#### Push notification
+### Push notification
 
 - [flauc/ng-push](https://github.com/flauc/ng-push) - An Angular wrapper around the Notifications API 
 - [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications
-
-#### Toaster
-- [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
-- [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
-- [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
-- [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
-- [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 
 ### Router
 
