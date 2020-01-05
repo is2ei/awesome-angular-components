@@ -1,4 +1,8 @@
-# awesome-angular-components
+awesome-angular-components
+===
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Curated List of Angular Components &amp; Libraries. 
 
 I created this repository since [ brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components) is no longer maintained...
