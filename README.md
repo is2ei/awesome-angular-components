@@ -19,7 +19,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud)
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
 
-## Notification
+### Notification
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
