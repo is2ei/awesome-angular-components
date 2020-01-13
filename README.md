@@ -19,6 +19,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
 - [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
+- [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨ A feature-rich yet lightweight data-table crafted for Angular
 - [valor-software/ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps
 
@@ -31,7 +32,6 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 - [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
-^ [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
 
 ### Markdown Viewer
 
