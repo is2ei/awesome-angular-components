@@ -17,7 +17,7 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
-- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
+- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨ A feature-rich yet lightweight data-table crafted for Angular
 
 ### Notification
 
