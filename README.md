@@ -33,6 +33,10 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 
+### Loader
+
+*Loaders / spinners / progress bars — Let the user know that something is loading*
+
 ### Markdown Viewer
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
