@@ -37,6 +37,11 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
+### Tooltip
+
+- [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
+- :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+
 ### Markdown Viewer
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
@@ -57,11 +62,6 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 ### Select
 
 - [AndreySyagrovskiy/ngx-flexible-select](https://github.com/AndreySyagrovskiy/ngx-flexible-select) - The most flexible and customized select
-
-### Tooltip
-
-- [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
-- :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
 
 ## Code Design
 
