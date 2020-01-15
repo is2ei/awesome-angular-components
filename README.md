@@ -3,9 +3,7 @@ awesome-angular-components
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated List of Angular Components &amp; Libraries. 
-
-I created this repository since [ brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components) is no longer maintained...
+Yet another curated List of Angular Components &amp; Libraries. 
 
 :coffin: - Archived repository
 
@@ -45,9 +43,85 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 - :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
 - [MrFrankel/ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
 
-### Markdown Viewer
+### Overlay
+
+*Overlay / modal / alert / dialog / lightbox / popup*
+
+### Parallax
+
+### Icons
+
+### Menu
+
+### Minus Plus Input
+
+### Carousel
+
+### Charts
+
+### Time
+
+*Display time / date / age*
+
+### Calendar
+
+*Display non-editable events in a Calendar*
+
+### Map
+
+### Audio / Video
+
+### Infinite Scroll
+
+### Pull-to-refresh
+
+### Markdown
 
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
+
+### PDF
+
+### Tree
+
+### Social Sharing
+
+### QR Code
+
+### Search
+
+### Miscellaneous
+
+### Tabs
+
+### Form
+
+*Let the user create & edit data*
+
+#### Phone Number Input Formatter
+
+#### Picker
+
+#### Generator
+
+#### Date Picker
+
+*Date / datetime / time Picker*
+
+#### Select
+
+#### Slider
+
+#### Drag and Drop
+
+#### Autocomplete
+
+*Autosuggest / autocomplete / typeahead*
+
+#### Type Select
+
+*Let the user select a tag / something while typing*
+
+#### Color Picker
 
 ### Menu
 
