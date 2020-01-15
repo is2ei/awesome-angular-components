@@ -37,6 +37,8 @@ I created this repository since [ brillout/awesome-angular-components](https://g
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
+- [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
+
 ### Tooltip
 
 - [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
