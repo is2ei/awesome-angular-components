@@ -5,7 +5,8 @@ awesome-angular-components
 
 Yet another curated List of Angular Components &amp; Libraries. 
 
-:coffin: - Archived repository
+:warning: - Low maintenance repository  
+:coffin: - Archived repository  
 
 ## UI Components
 
@@ -14,7 +15,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Tables / data grids*
 
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
+- :warning: [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
 - [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
