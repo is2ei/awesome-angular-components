@@ -80,6 +80,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 - [dimpu/ngx-md](https://github.com/dimpu/ngx-md) - Angular(ngx) directive for parsing markdown content in your web application.
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
+- [yisraelx/ngx-showdown](https://github.com/yisraelx/ngx-showdown) - Angular (>=2) integration for Showdown
 
 ### PDF
 
