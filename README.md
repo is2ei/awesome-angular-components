@@ -169,6 +169,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 #### Color Picker
 
+- [Alberplz/angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
 - [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular (version 2 and newer)
 
 ### Push notification
