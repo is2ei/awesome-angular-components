@@ -82,6 +82,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Charts
 
+- [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts) - 📊 Declarative Charting Framework for Angular
+
 ### Time
 
 *Display time / date / age*
