@@ -157,6 +157,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 #### Slider
 
+- [Bogdan1975/ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component
+
 #### Drag and Drop
 
 #### Autocomplete
