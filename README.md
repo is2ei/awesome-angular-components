@@ -41,7 +41,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
-- [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
+- :warning: [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
 
 ### Tooltip
 
@@ -52,6 +52,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 ### Overlay
 
 *Overlay / modal / alert / dialog / lightbox / popup*
+
+- [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
 
 ### Parallax
 
