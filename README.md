@@ -90,6 +90,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Display time / date / age*
 
+- [AndrewPoyntz/time-ago-pipe](https://github.com/AndrewPoyntz/time-ago-pipe) - An Angular pipe for converting a date string into a time ago
 - [ihym/ngx-timeago](https://github.com/ihym/ngx-timeago) - ⏰ Live updating timestamps in Angular 6+
 
 ### Calendar
