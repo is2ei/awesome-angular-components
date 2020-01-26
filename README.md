@@ -69,6 +69,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 ### Menu
 
 - [arkon/ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular sidebar component.
+- [isaacplmann/ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
 
 ### Minus Plus Input
 
