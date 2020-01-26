@@ -122,6 +122,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### PDF
 
+- [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
+
 ### Tree
 
 ### Social Sharing
