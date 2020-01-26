@@ -110,6 +110,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Infinite Scroll
 
+- [orizens/ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
+
 ### Pull-to-refresh
 
 ### Markdown
@@ -161,10 +163,6 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Let the user select a tag / something while typing*
 
 #### Color Picker
-
-### Menu
-
- - [ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
 
 ### Push notification
 
