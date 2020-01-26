@@ -90,6 +90,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Display time / date / age*
 
+- [ihym/ngx-timeago](https://github.com/ihym/ngx-timeago) - ⏰ Live updating timestamps in Angular 6+
+
 ### Calendar
 
 *Display non-editable events in a Calendar*
