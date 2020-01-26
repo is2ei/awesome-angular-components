@@ -70,6 +70,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 - [arkon/ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular sidebar component.
 - [isaacplmann/ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
+- [MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox
 
 ### Minus Plus Input
 
