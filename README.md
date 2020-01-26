@@ -129,6 +129,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Social Sharing
 
+- [MurhafSousli/ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular Share Buttons ☂
+
 ### QR Code
 
 ### Search
