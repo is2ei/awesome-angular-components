@@ -101,6 +101,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Map
 
+- [SebastianM/angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
+
 ### Audio / Video
 
 ### Infinite Scroll
