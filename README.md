@@ -48,6 +48,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
+- :warning: [akserg/ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
 - [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
 
 ### Tooltip
