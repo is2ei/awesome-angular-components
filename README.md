@@ -52,6 +52,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [devyumao/angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
 - [moff/angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module
 - [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
+- [WoltersKluwerPL/ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit (http://tobiasahlin.com/spinkit/) spinners for Angular
 
 ### Tooltip
 
