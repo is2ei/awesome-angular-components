@@ -169,6 +169,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 #### Color Picker
 
+- [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular (version 2 and newer)
+
 ### Push notification
 
 - [flauc/ng-push](https://github.com/flauc/ng-push) - An Angular wrapper around the Notifications API 
