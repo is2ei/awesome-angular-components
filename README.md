@@ -75,6 +75,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Carousel
 
+- [zefoy/ngx-swiper-wrapper](https://github.com/zefoy/ngx-swiper-wrapper) - Angular wrapper library for Swiper
+
 ### Charts
 
 ### Time
