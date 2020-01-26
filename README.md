@@ -50,6 +50,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 - :warning: [akserg/ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
 - [devyumao/angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
+- [moff/angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module
 - [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
 
 ### Tooltip
