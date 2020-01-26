@@ -8,6 +8,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 :warning: - Low maintenance repository  
 :coffin: - Archived repository  
 
+## Table of Contents
+
 ## UI Components
 
 ### Table
