@@ -75,6 +75,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Carousel
 
+- [sheikalthaf/ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel
 - [zefoy/ngx-swiper-wrapper](https://github.com/zefoy/ngx-swiper-wrapper) - Angular wrapper library for Swiper
 
 ### Charts
