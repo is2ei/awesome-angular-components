@@ -62,6 +62,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Icons
 
+- [czeckd/angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component for inlining SVGs allowing them to be easily styled with CSS. 
 - [FortAwesome/angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5
 
 ### Menu
