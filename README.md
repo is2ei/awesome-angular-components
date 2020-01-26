@@ -62,6 +62,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Icons
 
+- [FortAwesome/angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5
+
 ### Menu
 
 ### Minus Plus Input
