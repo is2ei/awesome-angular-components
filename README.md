@@ -58,6 +58,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Parallax
 
+- [ng2-ui/parallax-scroll](https://github.com/ng2-ui/parallax-scroll) - Angular2 parallax background scroll directive
+
 ### Icons
 
 ### Menu
