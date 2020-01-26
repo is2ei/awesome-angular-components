@@ -106,6 +106,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Audio / Video
 
+- [orizens/ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) - (ngx) A youtube component wrapped with Angular (typescript)
+
 ### Infinite Scroll
 
 ### Pull-to-refresh
