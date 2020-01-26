@@ -76,6 +76,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Carousel
 
+- [bfwg/ngx-drag-scroll](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library
 - [sheikalthaf/ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel
 - [zefoy/ngx-swiper-wrapper](https://github.com/zefoy/ngx-swiper-wrapper) - Angular wrapper library for Swiper
 
