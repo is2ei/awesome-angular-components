@@ -82,6 +82,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Charts
 
+- [gevgeny/angular2-highcharts](https://github.com/gevgeny/angular2-highcharts) - 📊 📈 Highcharts for your Angular project
 - [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts) - 📊 Declarative Charting Framework for Angular
 
 ### Time
