@@ -97,6 +97,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Display non-editable events in a Calendar*
 
+- [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
+
 ### Map
 
 ### Audio / Video
