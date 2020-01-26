@@ -101,6 +101,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Map
 
+- [ng2-ui/map](https://github.com/ng2-ui/map) - Angular Google Maps Directives
 - [SebastianM/angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
 
 ### Audio / Video
