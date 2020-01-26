@@ -37,6 +37,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
 - :warning: [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+- :warning: [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications [Looking for New Maintainers]
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
