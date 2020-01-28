@@ -65,7 +65,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Overlay / modal / alert / dialog / lightbox / popup*
 
 - [biig-io/ngx-smart-modal](https://github.com/biig-io/ngx-smart-modal) - Modal/Dialog component crafted for Angular
-- [dougludlow/ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular Bootstrap 3 Modal Component
+- :warning: [dougludlow/ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular Bootstrap 3 Modal Component
 - :warning: [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
 
 ### Parallax
