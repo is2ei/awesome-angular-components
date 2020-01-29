@@ -30,6 +30,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - :warning: [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨ A feature-rich yet lightweight data-table crafted for Angular
+- :warning: [valor-software/ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable
 - :warning: [valor-software/ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps
 
 ### Notification
