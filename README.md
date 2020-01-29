@@ -142,6 +142,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Tree
 - [500tech/angular-tree-component](https://github.com/500tech/angular-tree-component) - A simple yet powerful tree component for Angular (>=2) 
+- [valor-software/ng2-tree](https://github.com/valor-software/ng2-tree) - Angular tree component
 
 ### Social Sharing
 
