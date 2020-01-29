@@ -68,6 +68,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 - [biig-io/ngx-smart-modal](https://github.com/biig-io/ngx-smart-modal) - Modal/Dialog component crafted for Angular
 - :warning: [dougludlow/ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular Bootstrap 3 Modal Component
+- [mattlewis92/angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 5.0+ bootstrap confirmation popover
 - :warning: [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
 
 ### Parallax
