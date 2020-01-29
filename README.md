@@ -187,3 +187,69 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [Alberplz/angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
 - [AndyMeps/ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2
 - [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular (version 2 and newer)
+
+#### Switch
+
+*Switch / on/off toggle / checkbox*
+
+#### Masked Input
+
+#### Rich Text Editing
+
+#### Image Manipulation
+
+*Edit images*
+
+*Display images*
+
+#### Video Manipulation
+
+#### File Upload
+
+#### Context Menu
+
+#### Miscellaneous
+
+#### Wizard
+
+#### CSV
+
+#### Comment System
+
+### Canvas
+
+### Link Preview
+
+### Tour
+
+## UI Layout
+
+*Layout for the overall / main view*
+
+## Frameworks
+
+### Responsive
+
+*Set of components + responsive layout system*
+
+### Mobile
+
+*UI frameworks for mobile*
+
+*Set of components for mobile*
+
+### Component Collections
+
+*Set of components without layout system*
+
+### Admin Template
+
+*Set of admin template*
+
+### Server-side rendering
+
+### Static website generator
+
+### Other
+
+## UI Utilities
