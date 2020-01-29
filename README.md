@@ -250,6 +250,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Set of admin template*
 
+- [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
+
 ### Server-side rendering
 
 ### Static website generator
