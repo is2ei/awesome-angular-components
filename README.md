@@ -21,6 +21,7 @@ Yet another curated List of Angular Components &amp; Libraries.
   - [Minus Plus Input](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#minus-plus-input)
   - [Carousel](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#carousel)
   - [Charts](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#charts)
+  - [Time](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#time)
 
 ## UI Components
 
