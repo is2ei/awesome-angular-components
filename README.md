@@ -165,6 +165,8 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### QR Code
 
+- [werthdavid/ngx-kjua](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using kjua.
+
 ### Search
 
 ### Miscellaneous
