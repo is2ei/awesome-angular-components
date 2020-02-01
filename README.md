@@ -31,6 +31,7 @@ Yet another curated List of Angular Components &amp; Libraries.
   - [PDF](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#pdf)
   - [Tree](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#tree)
   - [Social Sharing](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#social-sharing)
+  - [QR Code](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#qr-code)
 
 ## UI Components
 
