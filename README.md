@@ -167,6 +167,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 - [Cordobo/angularx-qrcode](https://github.com/Cordobo/angularx-qrcode) - Angular4/5/6/7/8/9 QRCode generator Component library for QR Codes (Quick Response) with AOT support based on qrcodejs
 - [werthdavid/ngx-kjua](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using kjua.
+- [zxing-js/ngx-scanner](https://github.com/zxing-js/ngx-scanner) - Angular (2+) QR code, Barcode, DataMatrix, scanner component using ZXing. 
 
 ### Search
 
