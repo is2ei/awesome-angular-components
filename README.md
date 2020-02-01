@@ -26,6 +26,7 @@ Yet another curated List of Angular Components &amp; Libraries.
   - [Map](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#map)
   - [Audio / Video](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#audio--video)
   - [Infinite Scroll](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#infinite-scroll)
+  - [Pull-to-refresh](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#pull-to-refresh)
 
 ## UI Components
 
