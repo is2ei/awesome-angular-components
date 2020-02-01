@@ -24,6 +24,7 @@ Yet another curated List of Angular Components &amp; Libraries.
   - [Time](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#time)
   - [Calendar](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#calendar)
   - [Map](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#map)
+  - [Audio / Video](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#audio--video)
 
 ## UI Components
 
