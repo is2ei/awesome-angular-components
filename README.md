@@ -9,7 +9,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 :coffin: - Archived repository  
 
 ## Table of Contents
-- [UI Components](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#ui-components)
+- [UI Components](#ui-components)
   - [Table](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#table)
   - [Notification](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#notification)
   - [Loader](https://github.com/is2ei/awesome-angular-components/blob/master/README.md#loader)
