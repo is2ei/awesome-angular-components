@@ -244,6 +244,9 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Link Preview
 
+- [angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
+- [btxtiger/ngx-link-preview](https://github.com/btxtiger/ngx-link-preview) - The Open Graph link preview component for Angular
+
 ### Tour
 
 ## UI Layout
