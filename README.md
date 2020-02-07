@@ -5,7 +5,7 @@ awesome-angular-components
 
 Yet another curated List of Angular Components &amp; Libraries. 
 
-:warning: - Low maintenance repository  
+:arrow_double_down: - Low maintenance repository  
 :coffin: - Archived repository  
 
 ## Table of Contents
@@ -40,24 +40,24 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Tables / data grids*
 
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- :warning: [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
+- :arrow_double_down: [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
-- :warning: [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
+- :arrow_double_down: [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨ A feature-rich yet lightweight data-table crafted for Angular
-- :warning: [valor-software/ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable
-- :warning: [valor-software/ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps
+- :arrow_double_down: [valor-software/ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable
+- :arrow_double_down: [valor-software/ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps
 
 ### Notification
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
-- :warning: [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
-- :warning: [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications [Looking for New Maintainers]
-- :warnings: [artemsky/ng-snotify](https://github.com/artemsky/ng-snotify) - Angular 2+ Notification Center
+- :arrow_double_down: [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+- :arrow_double_down: [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications [Looking for New Maintainers]
+- :arrow_double_down: [artemsky/ng-snotify](https://github.com/artemsky/ng-snotify) - Angular 2+ Notification Center
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
-- :warning: [ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular
+- :arrow_double_down: [ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 
@@ -65,7 +65,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
-- :warning: [akserg/ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
+- :arrow_double_down: [akserg/ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
 - [devyumao/angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
 - [moff/angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module
 - [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
@@ -84,9 +84,9 @@ Yet another curated List of Angular Components &amp; Libraries.
 *Overlay / modal / alert / dialog / lightbox / popup*
 
 - [biig-io/ngx-smart-modal](https://github.com/biig-io/ngx-smart-modal) - Modal/Dialog component crafted for Angular
-- :warning: [dougludlow/ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular Bootstrap 3 Modal Component
+- :arrow_double_down: [dougludlow/ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular Bootstrap 3 Modal Component
 - [mattlewis92/angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 5.0+ bootstrap confirmation popover
-- :warning: [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
+- :arrow_double_down: [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
 
 ### Parallax
 
