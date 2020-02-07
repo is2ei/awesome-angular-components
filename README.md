@@ -42,6 +42,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
 - :arrow_double_down: [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
+- :arrow_double_down: [jdjuan/ng-notyf](https://github.com/jdjuan/ng-notyf) - 👻 A dead simple notification library for Angular 👻
 - :arrow_double_down: [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨ A feature-rich yet lightweight data-table crafted for Angular
