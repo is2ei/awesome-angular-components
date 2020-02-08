@@ -72,6 +72,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 - :arrow_double_down: [stanvanheumen/ngx-notifications](https://github.com/stanvanheumen/ngx-notifications) - A simple library that allows you to notify your users in your Angular 5+ app.
+- :arrow_double_down: [vanthaiunghoa/Angular2-Toaster](https://github.com/vanthaiunghoa/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 
 ### Loader
 
