@@ -58,7 +58,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - :arrow_double_down: [artemsky/ng-snotify](https://github.com/artemsky/ng-snotify) - Angular 2+ Notification Center
 - [Augustpi/angular2-notifier](https://github.com/Augustpi/angular2-notifier) - Angular notifier
 - :arrow_double_down: [cloukit/notification](https://github.com/cloukit/notification) - Show success, error, info and warn notifications on the page
-- [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
+- :arrow_double_down: [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
 - [BenevidesLecontes/ngx-bootstrap-alert-notification](https://github.com/BenevidesLecontes/ngx-bootstrap-alert-notification) - Angular bootstrap alerts as notifications
 - [dank/ngx-snackbar](https://github.com/dank/ngx-snackbar) - Snackbar / Toast notifications for Angular
 - :arrow_double_down: [dev-tim/angular-noty](https://github.com/dev-tim/angular-noty) - Wrapper for Noty - cool growl-like notifications.
