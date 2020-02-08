@@ -56,6 +56,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - :arrow_double_down: [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - :arrow_double_down: [alexcastillo/ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications [Looking for New Maintainers]
 - :arrow_double_down: [artemsky/ng-snotify](https://github.com/artemsky/ng-snotify) - Angular 2+ Notification Center
+- [Augustpi/angular2-notifier](https://github.com/Augustpi/angular2-notifier) - Angular notifier
 - :arrow_double_down: [cloukit/notification](https://github.com/cloukit/notification) - Show success, error, info and warn notifications on the page
 - [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
 - [BenevidesLecontes/ngx-bootstrap-alert-notification](https://github.com/BenevidesLecontes/ngx-bootstrap-alert-notification) - Angular bootstrap alerts as notifications
