@@ -186,8 +186,6 @@ Yet another curated List of Angular Components &amp; Libraries.
 
 ### Search
 
-### Miscellaneous
-
 ### Tabs
 
 ### Form
@@ -262,6 +260,9 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [btxtiger/ngx-link-preview](https://github.com/btxtiger/ngx-link-preview) - The Open Graph link preview component for Angular
 
 ### Tour
+
+### Miscellaneous
+- [NiyazNz/ng-favicon](https://github.com/NiyazNz/ng-favicon) - A simple angular service to change favicon or display unread messages and notifications on top of favicon
 
 ## UI Layout
 
