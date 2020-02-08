@@ -61,7 +61,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - :arrow_double_down: [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
 - [BenevidesLecontes/ngx-bootstrap-alert-notification](https://github.com/BenevidesLecontes/ngx-bootstrap-alert-notification) - Angular bootstrap alerts as notifications
 - [dank/ngx-snackbar](https://github.com/dank/ngx-snackbar) - Snackbar / Toast notifications for Angular
-- :arrow_double_down: [dev-tim/angular-noty](https://github.com/dev-tim/angular-noty) - Wrapper for Noty - cool growl-like notifications.
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 - [JanMalch/ngx-mat-sw-update](https://github.com/JanMalch/ngx-mat-sw-update) - Angular library to setup a notification for Service Worker updates.
