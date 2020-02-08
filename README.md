@@ -63,6 +63,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - :arrow_double_down: [dev-tim/angular-noty](https://github.com/dev-tim/angular-noty) - Wrapper for Noty - cool growl-like notifications.
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
+- [JanMalch/ngx-mat-sw-update](https://github.com/JanMalch/ngx-mat-sw-update) - Angular library to setup a notification for Service Worker updates.
 - [LenonLopez/angular-notice](https://github.com/LenonLopez/angular-notice) - Native notifications for your Angular application using the Web Notification API. Works on chrome, firefox, edge, and safari.
 - :arrow_double_down: [ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular
 - :arrow_double_down: [ng-semantic-toast](https://github.com/ojji/ng-semantic-toast) - Angular toast notification module built with Semantic UI.
