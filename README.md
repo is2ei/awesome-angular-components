@@ -9,6 +9,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 :coffin: - Archived repository  
 
 ## Table of Contents
+- [Projects using Angular](#projects-using-angular)
 - [UI Components](#ui-components)
   - [Table](#table)
   - [Notification](#notification)
@@ -32,6 +33,10 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
   - [Tree](#tree)
   - [Social Sharing](#social-sharing)
   - [QR Code](#qr-code)
+
+## Projects using Angular
+
+- [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
 
 ## UI Components
 
