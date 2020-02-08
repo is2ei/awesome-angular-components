@@ -65,6 +65,7 @@ Yet another curated List of Angular Components &amp; Libraries.
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 - [LenonLopez/angular-notice](https://github.com/LenonLopez/angular-notice) - Native notifications for your Angular application using the Web Notification API. Works on chrome, firefox, edge, and safari.
 - :arrow_double_down: [ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular
+- :arrow_double_down: [ng-semantic-toast](https://github.com/ojji/ng-semantic-toast) - Angular toast notification module built with Semantic UI.
 - [scttcper/ngx-toastr](https://github.com/scttcper/ngx-toastr) - 🍞 Angular Toastr
 - [Stabzs/Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular Toaster Notification library
 - :arrow_double_down: [stanvanheumen/ngx-notifications](https://github.com/stanvanheumen/ngx-notifications) - A simple library that allows you to notify your users in your Angular 5+ app.
