@@ -97,6 +97,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [joejordanbrown/popover](https://github.com/joejordanbrown/popover) - Angular CDK Popover, no default style, examples using @angular/material
 - :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
 - [MrFrankel/ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
+- [vitaliy-bobrov/angular-popper](https://github.com/vitaliy-bobrov/angular-popper) - Popover component for Angular 2+ based on Popper.js library.
 
 ### Overlay
 
