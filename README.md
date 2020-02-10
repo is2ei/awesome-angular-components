@@ -93,6 +93,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 *Tooltips / popovers*
 
+- [cloukit/tooltip](https://github.com/cloukit/tooltip) - A simple tooltip component
 - [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
 - [gustafguner/angular-tooltip](https://github.com/gustafguner/angular-tooltip) - An easy-to-use Angular (6+) component for displaying tooltips
 - [joejordanbrown/popover](https://github.com/joejordanbrown/popover) - Angular CDK Popover, no default style, examples using @angular/material
