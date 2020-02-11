@@ -47,7 +47,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
 - :arrow_double_down: [akveo/ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular Smart Data Table component
 - [marinantonio/angular-mat-table-crud](https://github.com/marinantonio/angular-mat-table-crud) - CRUD operations for the Angular Material Table
-- [farengeyt451/ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular 8+ wrapper for Tippy.js
 - :arrow_double_down: [jdjuan/ng-notyf](https://github.com/jdjuan/ng-notyf) - 👻 A dead simple notification library for Angular 👻
 - :arrow_double_down: [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [ssuperczynski/ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 8.8kb gziped! 60fps! Tree-shakeable. 53 features and growing!
@@ -68,6 +67,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [BenevidesLecontes/ngx-bootstrap-alert-notification](https://github.com/BenevidesLecontes/ngx-bootstrap-alert-notification) - Angular bootstrap alerts as notifications
 - [dank/ngx-snackbar](https://github.com/dank/ngx-snackbar) - Snackbar / Toast notifications for Angular
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
+- [farengeyt451/ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular 8+ wrapper for Tippy.js
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 - [JanMalch/ngx-mat-sw-update](https://github.com/JanMalch/ngx-mat-sw-update) - Angular library to setup a notification for Service Worker updates.
 - [LenonLopez/angular-notice](https://github.com/LenonLopez/angular-notice) - Native notifications for your Angular application using the Web Notification API. Works on chrome, firefox, edge, and safari.
