@@ -272,6 +272,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 ### Tour
 
 ### Miscellaneous
+- [angulartics/angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 - [NiyazNz/ng-favicon](https://github.com/NiyazNz/ng-favicon) - A simple angular service to change favicon or display unread messages and notifications on top of favicon
 
 ## UI Layout
