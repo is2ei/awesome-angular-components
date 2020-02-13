@@ -36,6 +36,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
   - [QR Code](#qr-code)
 
 ## Official resources
+- [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
 ## Projects using Angular
 
