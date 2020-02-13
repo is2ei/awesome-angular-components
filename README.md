@@ -9,6 +9,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 :coffin: - Archived repository  
 
 ## Table of Contents
+- [Official resources](#official-resources)
 - [Projects using Angular](#projects-using-angular)
 - [UI Components](#ui-components)
   - [Table](#table)
@@ -33,6 +34,8 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
   - [Tree](#tree)
   - [Social Sharing](#social-sharing)
   - [QR Code](#qr-code)
+
+## Official resources
 
 ## Projects using Angular
 
