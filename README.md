@@ -13,6 +13,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [Projects using Angular](#projects-using-angular)
 - [UI Components](#ui-components)
   - [Calendar](#calendar)
+  - [Form](#form)
   - [Table](#table)
   - [Notification](#notification)
   - [Loader](#loader)
@@ -49,6 +50,70 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 *Display non-editable events in a Calendar*
 
 - [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
+
+### Form
+
+*Let the user create & edit data*
+
+#### Phone Number Input Formatter
+
+#### Picker
+
+#### Generator
+
+#### Date Picker
+
+*Date / datetime / time Picker*
+
+#### Select
+
+#### Slider
+
+- [Bogdan1975/ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component
+
+#### Drag and Drop
+
+#### Autocomplete
+
+*Autosuggest / autocomplete / typeahead*
+
+#### Type Select
+
+*Let the user select a tag / something while typing*
+
+#### Color Picker
+
+- :warning: [Alberplz/angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
+- [AndyMeps/ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2
+- [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular (version 2 and newer)
+
+#### Switch
+
+*Switch / on/off toggle / checkbox*
+
+#### Masked Input
+
+#### Rich Text Editing
+
+#### Image Manipulation
+
+*Edit images*
+
+*Display images*
+
+#### Video Manipulation
+
+#### File Upload
+
+#### Context Menu
+
+#### Miscellaneous
+
+#### Wizard
+
+#### CSV
+
+#### Comment System
 
 ### Table
 
@@ -202,70 +267,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 ### Search
 
 ### Tabs
-
-### Form
-
-*Let the user create & edit data*
-
-#### Phone Number Input Formatter
-
-#### Picker
-
-#### Generator
-
-#### Date Picker
-
-*Date / datetime / time Picker*
-
-#### Select
-
-#### Slider
-
-- [Bogdan1975/ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component
-
-#### Drag and Drop
-
-#### Autocomplete
-
-*Autosuggest / autocomplete / typeahead*
-
-#### Type Select
-
-*Let the user select a tag / something while typing*
-
-#### Color Picker
-
-- :warning: [Alberplz/angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
-- [AndyMeps/ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2
-- [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular (version 2 and newer)
-
-#### Switch
-
-*Switch / on/off toggle / checkbox*
-
-#### Masked Input
-
-#### Rich Text Editing
-
-#### Image Manipulation
-
-*Edit images*
-
-*Display images*
-
-#### Video Manipulation
-
-#### File Upload
-
-#### Context Menu
-
-#### Miscellaneous
-
-#### Wizard
-
-#### CSV
-
-#### Comment System
 
 ### Canvas
 
