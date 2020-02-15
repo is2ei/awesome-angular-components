@@ -60,6 +60,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 *Date / datetime / time Picker*
 
 - [akmittal/angular2-datepicker](https://github.com/akmittal/angular2-datepicker) - Angular2 date time picker
+- [adibro500/ngx-adibro-datetime-picker](https://github.com/adibro500/ngx-adibro-datetime-picker)
 - [albertnadal/ng2-daterange-picker](https://github.com/albertnadal/ng2-daterange-picker) - Light and simple date range picker component for Angular2 based on Material
 - [asdftu/ng-time-picker](https://github.com/asdftu/ng-time-picker) - IOS style time-picker for angular
 - [ashishgkwd/ngx-mat-daterange-picker](https://github.com/ashishgkwd/ngx-mat-daterange-picker) - Date range picker component based of Angular Material Calendar component and configurable date presets. Packaged using ng-packagr.
