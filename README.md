@@ -49,9 +49,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 *Display non-editable events in a Calendar*
 
-- [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Twitter Bootstrap
 - [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-- [owsolutions/amazing-time-picker](https://github.com/owsolutions/amazing-time-picker) - Timepicker (Clock Picker) for Angular 2, Angular 4 and Angular 5, Angular 6, Angular 7 - Compatible with Angular Material
 
 ### Form
 
@@ -61,7 +59,10 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 *Date / datetime / time Picker*
 
+- [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Twitter Bootstrap
 - [DanielYKPan/date-time-picker](https://github.com/DanielYKPan/date-time-picker) - Angular Date Time Picker (Responsive Design)
+- :coffin: [nkalinov/ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2+
+- [owsolutions/amazing-time-picker](https://github.com/owsolutions/amazing-time-picker) - Timepicker (Clock Picker) for Angular 2, Angular 4 and Angular 5, Angular 6, Angular 7 - Compatible with Angular Material
 
 #### Phone Number Input Formatter
 
