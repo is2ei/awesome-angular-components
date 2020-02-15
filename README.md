@@ -55,17 +55,15 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 *Let the user create & edit data*
 
-#### Phone Number Input Formatter
-
-#### Picker
-
-- [DanielYKPan/date-time-picker](https://github.com/DanielYKPan/date-time-picker) - Angular Date Time Picker (Responsive Design)
-
-#### Generator
-
 #### Date Picker
 
 *Date / datetime / time Picker*
+
+- [DanielYKPan/date-time-picker](https://github.com/DanielYKPan/date-time-picker) - Angular Date Time Picker (Responsive Design)
+
+#### Phone Number Input Formatter
+
+#### Generator
 
 #### Select
 
