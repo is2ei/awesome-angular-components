@@ -70,6 +70,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [kekeh/angular-mydatepicker](https://github.com/kekeh/angular-mydatepicker) - Angular datepicker and date range picker 📅
 - :coffin: [nkalinov/ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2+
 - [owsolutions/amazing-time-picker](https://github.com/owsolutions/amazing-time-picker) - Timepicker (Clock Picker) for Angular 2, Angular 4 and Angular 5, Angular 6, Angular 7 - Compatible with Angular Material
+- [RezaT1994/ir-datetimepicker](https://github.com/RezaT1994/ir-datetimepicker) - Angular 6 persian datetime picker
 - [vlio20/angular-datepicker](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications
 
 #### Phone Number Input Formatter
