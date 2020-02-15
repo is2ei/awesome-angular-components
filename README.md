@@ -70,6 +70,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [DanielYKPan/date-time-picker](https://github.com/DanielYKPan/date-time-picker) - Angular Date Time Picker (Responsive Design)
 - [djsiddz2/djsiddz-dtp](https://github.com/djsiddz2/djsiddz-dtp) - Date Time Picker module for your Angular 5 apps
 - [fingerpich/jalali-angular-datepicker](https://github.com/fingerpich/jalali-angular-datepicker) - Highly configurable jalali (shamsi, khorshidi, persian) date picker built for Angular ( 2 or more ) applications
+- [h2qutc/ngx-mat-datetime-picker](https://github.com/h2qutc/ngx-mat-datetime-picker) - Angular Material Datetime Picker
 - [jkuri/ng-daterangepicker](https://github.com/jkuri/ng-daterangepicker) - Angular Date Range Picker inspired by PayPal's one
 - [kekeh/angular-mydatepicker](https://github.com/kekeh/angular-mydatepicker) - Angular datepicker and date range picker 📅
 - [martre3/ngx-dates-picker](https://github.com/martre3/ngx-dates-picker) - Angular 2+ datepicker component with no JQuery dependency.
