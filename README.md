@@ -49,6 +49,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 *Display non-editable events in a Calendar*
 
+- [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Twitter Bootstrap
 - [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
 
 ### Form
