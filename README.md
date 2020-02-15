@@ -289,6 +289,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 ### Miscellaneous
 - [angulartics/angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
+- [FrancescoBorzi/ngx-duration-picker](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO_8601 durations
 - [NiyazNz/ng-favicon](https://github.com/NiyazNz/ng-favicon) - A simple angular service to change favicon or display unread messages and notifications on top of favicon
 
 ## UI Layout
