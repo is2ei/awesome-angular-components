@@ -12,6 +12,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [Official resources](#official-resources)
 - [Projects using Angular](#projects-using-angular)
 - [UI Components](#ui-components)
+  - [Calendar](#calendar)
   - [Table](#table)
   - [Notification](#notification)
   - [Loader](#loader)
@@ -24,7 +25,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
   - [Carousel](#carousel)
   - [Charts](#charts)
   - [Time](#time)
-  - [Calendar](#calendar)
   - [Map](#map)
   - [Audio / Video](#audio--video)
   - [Infinite Scroll](#infinite-scroll)
@@ -43,6 +43,12 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
 
 ## UI Components
+
+### Calendar
+
+*Display non-editable events in a Calendar*
+
+- [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
 
 ### Table
 
@@ -151,12 +157,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 - [AndrewPoyntz/time-ago-pipe](https://github.com/AndrewPoyntz/time-ago-pipe) - An Angular pipe for converting a date string into a time ago
 - [ihym/ngx-timeago](https://github.com/ihym/ngx-timeago) - ⏰ Live updating timestamps in Angular 6+
-
-### Calendar
-
-*Display non-editable events in a Calendar*
-
-- [mattlewis92/angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
 
 ### Map
 
