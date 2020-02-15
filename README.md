@@ -59,6 +59,8 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 #### Picker
 
+- [DanielYKPan/date-time-picker](https://github.com/DanielYKPan/date-time-picker) - Angular Date Time Picker (Responsive Design)
+
 #### Generator
 
 #### Date Picker
