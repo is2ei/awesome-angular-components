@@ -169,6 +169,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 ### Infinite Scroll
 
+- [ashwin-sureshkumar/angular-infinite-scroller](https://github.com/ashwin-sureshkumar/angular-infinite-scroller) 
 - [orizens/ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
 
 ### Pull-to-refresh
