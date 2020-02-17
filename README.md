@@ -154,6 +154,18 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - :arrow_double_down: [valor-software/ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable
 - :arrow_double_down: [valor-software/ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps
 
+### Tooltip
+
+*Tooltips / popovers*
+
+- [cloukit/tooltip](https://github.com/cloukit/tooltip) - A simple tooltip component
+- [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
+- [gustafguner/angular-tooltip](https://github.com/gustafguner/angular-tooltip) - An easy-to-use Angular (6+) component for displaying tooltips
+- [joejordanbrown/popover](https://github.com/joejordanbrown/popover) - Angular CDK Popover, no default style, examples using @angular/material
+- :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+- [MrFrankel/ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
+- [vitaliy-bobrov/angular-popper](https://github.com/vitaliy-bobrov/angular-popper) - Popover component for Angular 2+ based on Popper.js library.
+
 ### Notification
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
@@ -189,18 +201,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [moff/angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module
 - [MurhafSousli/ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar ☄
 - [WoltersKluwerPL/ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit (http://tobiasahlin.com/spinkit/) spinners for Angular
-
-### Tooltip
-
-*Tooltips / popovers*
-
-- [cloukit/tooltip](https://github.com/cloukit/tooltip) - A simple tooltip component
-- [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
-- [gustafguner/angular-tooltip](https://github.com/gustafguner/angular-tooltip) - An easy-to-use Angular (6+) component for displaying tooltips
-- [joejordanbrown/popover](https://github.com/joejordanbrown/popover) - Angular CDK Popover, no default style, examples using @angular/material
-- :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
-- [MrFrankel/ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
-- [vitaliy-bobrov/angular-popper](https://github.com/vitaliy-bobrov/angular-popper) - Popover component for Angular 2+ based on Popper.js library.
 
 ### Overlay
 
