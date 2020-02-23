@@ -86,6 +86,9 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [yannickebongue/ngx-material-time-select](https://github.com/yannickebongue/ngx-material-time-select) - The time select allows users to enter a time either through text input, or by choosing a time from the select panel
 - [vlio20/angular-datepicker](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications
 
+#### Emoji Picker
+
+
 #### Phone Number Input Formatter
 
 #### Generator
