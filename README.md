@@ -163,6 +163,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 - [cloukit/tooltip](https://github.com/cloukit/tooltip) - A simple tooltip component
 - [drozhzhin-n-e/ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - The tooltip is a pop-up tip that appears when you hover over an item or click on it.
+- [farengeyt451/ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular 8+ wrapper for Tippy.js
 - [gustafguner/angular-tooltip](https://github.com/gustafguner/angular-tooltip) - An easy-to-use Angular (6+) component for displaying tooltips
 - [joejordanbrown/popover](https://github.com/joejordanbrown/popover) - Angular CDK Popover, no default style, examples using @angular/material
 - :coffin: [pleerock/ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
@@ -182,7 +183,6 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [BenevidesLecontes/ngx-bootstrap-alert-notification](https://github.com/BenevidesLecontes/ngx-bootstrap-alert-notification) - Angular bootstrap alerts as notifications
 - [dank/ngx-snackbar](https://github.com/dank/ngx-snackbar) - Snackbar / Toast notifications for Angular
 - [dominique-mueller/angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application. 
-- [farengeyt451/ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular 8+ wrapper for Tippy.js
 - [flauc/angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 - [JanMalch/ngx-mat-sw-update](https://github.com/JanMalch/ngx-mat-sw-update) - Angular library to setup a notification for Service Worker updates.
 - [LenonLopez/angular-notice](https://github.com/LenonLopez/angular-notice) - Native notifications for your Angular application using the Web Notification API. Works on chrome, firefox, edge, and safari.
