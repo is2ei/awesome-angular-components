@@ -87,7 +87,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [vlio20/angular-datepicker](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications
 
 #### Emoji Picker
-
+- [TypeCtrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
 
 #### Phone Number Input Formatter
 
