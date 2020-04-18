@@ -41,6 +41,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 ## Projects using Angular
 
+- [crafted/crafted](https://github.com/crafted/crafted) - Utilities and components to build apps
 - [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
 
 ## UI Components
