@@ -45,6 +45,10 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [ngxtools/ngx.tools](https://github.com/ngxtools/ngx.tools) - ⚡️Discover any Angular module/library/schematic/package hosted on NPM⚡️
 - [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
 
+## Tools
+
+- [Jefiozie/ngx-aws-deploy](https://github.com/Jefiozie/ngx-aws-deploy) - ☁️🚀 Deploy your Angular app to Amazon S3 directly from the Angular CLI 🚀☁️
+
 ## UI Components
 
 ### Calendar
