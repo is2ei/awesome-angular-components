@@ -35,6 +35,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
   - [Tree](#tree)
   - [Social Sharing](#social-sharing)
   - [QR Code](#qr-code)
+- [Services](#services)
 
 ## Official resources
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
@@ -350,3 +351,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 ### Other
 
 ## UI Utilities
+
+## Services
+
+- [brtnshrdr/angular2-hotkeys](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps
