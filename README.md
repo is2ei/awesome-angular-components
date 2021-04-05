@@ -103,6 +103,8 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 
 #### Select
 
+- [iamartyom/ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - Customizable Angular component which containing a dropdown with country flags
+
 #### Slider
 
 - [Bogdan1975/ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component
