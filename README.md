@@ -285,6 +285,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 ### PDF
 
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
+- [intbot/ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - 📄 Comprehensive Angular PDF viewer built on PDF.js: annotations, forms, signatures, search, and read-aloud. Angular 10-22.
 
 ### Tree
 - [500tech/angular-tree-component](https://github.com/500tech/angular-tree-component) - A simple yet powerful tree component for Angular (>=2) 
