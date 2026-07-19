@@ -281,6 +281,7 @@ Yet another curated List of Angular 2+ Components &amp; Libraries.
 - [dimpu/ngx-md](https://github.com/dimpu/ngx-md) - Angular(ngx) directive for parsing markdown content in your web application.
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight 
 - [yisraelx/ngx-showdown](https://github.com/yisraelx/ngx-showdown) - Angular (>=2) integration for Showdown
+- [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Angular 20+ streaming Markdown renderer for AI chat with incomplete Markdown, Mermaid, KaTeX, Monaco-powered code blocks, safe component rendering, and SSR.
 
 ### PDF
 
